@@ -1,0 +1,46 @@
+body {
+	background-color: #0b0f14;
+
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.carte {
+	background-color: purple;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.first {
+	display: flex;
+
+	width: max-content;
+	height: max-content;
+	flex-direction: column;
+	align-items: center;
+}
+h1 {
+	width: min-content;
+	height: max-content;
+}
+.sencond {
+	display: flex;
+	width: max-content;
+	height: max-content;
+	background-color: #121821;
+	border-radius: 99999px;
+}
+.voir {
+	display: flex;
+	width: max-content;
+	height: max-content;
+	border-radius: 99999px;
+	background-color: #5cc8ff;
+}
+input {
+	display: flex;
+	width: max-content;
+	text-align: center;
+	color: azure;
+	background-color: #0d131b;
+}
