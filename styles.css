@@ -44,3 +44,9 @@ input {
 	color: azure;
 	background-color: #0d131b;
 }
+table {
+	display: flex;
+	width: max-content;
+	height: max-content;
+	background-color: #0b0f14;
+}
